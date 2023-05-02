@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class task2 {
+public class task_2 {
     public static void main(String[] args) {
         Integer sumElement = 0;
         Integer maxElement = 0;
